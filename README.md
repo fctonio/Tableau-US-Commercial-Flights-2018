@@ -40,7 +40,9 @@ In the repository you will find several files and a Folder:<br>
 <br>
 1 - .gitignore -> To not push everything.<br>
 2 - README.md -> That would be this beautiful file :P<br>
-2 - Data (Folder) -> containing the 2018.csv file file<br>
-
+3 - US-Flights 2018.twb -> The tableau project
+4 - Data (Folder):<br>
+    2.1 - 2018.csv -> The downloaded csv file from Kaggle<br>
+    2.2 - 2018.hyper -> The extracted file from Tableau <br>
 ## Links
 [Repository](https://github.com/fctonio/Tableau-US-Commercial-Flights-2018)
