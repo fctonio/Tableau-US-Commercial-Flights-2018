@@ -20,7 +20,7 @@ The goal of this project was to find a dataset and tell a story using tableau to
 
 ## Dataset
 The Dataset: "2018" is a CSV file which I downloaded from Kaggle: https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
-It contains every single national US commercial flight that took place in the year 2018. It contains a lot of columns with all imaginable information about each flight. I specifically used the following colomns: 
+It contains every single national US commercial flight that took place in the year 2018. It contains a lot of columns with all imaginable information about each flight. I specifically used the following colomns: <br>
 1 - OP_CARRIER<br>
 2 - ORIGIN<br>
 3 - DEST<br>
