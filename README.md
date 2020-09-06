@@ -7,7 +7,9 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Dataset/Workflow](#dataset/workflow)
+- [Link to my Tableau Public Story](#link to my Tableau Public Story)
+- [Dataset](#dataset)
+- [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
